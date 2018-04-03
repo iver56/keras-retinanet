@@ -6,3 +6,5 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+keras_retinanet/bin/logs
+keras_retinanet/bin/snapshots
